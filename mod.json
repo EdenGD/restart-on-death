@@ -1,0 +1,14 @@
+{
+	"geode": "3.9.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "eden.restart_on_death",
+	"name": "Restart On Death",
+	"version": "v1.0.0",
+	"developer": "Eden",
+	"description": "Reboots your computer when you die in game."
+}
