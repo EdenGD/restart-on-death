@@ -10,4 +10,4 @@ also yeah im not responsible for any data loss
 
 Since I don't plan to publish this mod on the index, you need to install it manually. (btw the mod is windows only)
 
-Go to the latest release and download the .geode file. Then just put it into the directory "\<Game Files\>\geode\mods".
+Go to the Releases tab and download the .geode file from the latest release. Since Geode 4, there's a button on the Geode menu on the left that allows you to import a .geode file. Use it to install the mod.
