@@ -5,7 +5,7 @@
 	},
 	"id": "eden.restart_on_death",
 	"name": "Restart On Death",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Eden",
 	"description": "Reboots your computer when you die in game."
 }
